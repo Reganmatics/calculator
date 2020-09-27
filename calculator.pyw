@@ -62,6 +62,10 @@ addVar = tk.StringVar()
 subtractVar = tk.StringVar()
 moduloVar = tk.StringVar()
 intDivideVar = tk.StringVar()
+"""
+the lines of code above are unnecessary as we dont require 
+a change in the text displayed text on the buttons
+"""
 
 #logic_buttons
 
